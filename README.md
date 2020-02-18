@@ -7,14 +7,14 @@
 ![Menu](/image/first.png)
 
 * **Categories
-![Random](/image/random.png)
-![Animals](/image/animals.png)
-![Cities](/image/cities.png)
-![Movies](/image/movies.png)
-![Plants](/image/plants.png)
+![Random](/image/random.gif)
+![Animals](/image/animals.gif)
+![Cities](/image/cities.gif)
+![Movies](/image/movies.gif)
+![Plants](/image/plants.gif)
 * **Levels
-![Easy](/image/easy.png)
-![Hard](/image/hard.png)
+![Easy](/image/easy.gif)
+![Hard](/image/hard.gif)
 
 ### Now press Start and enjoy the most basic game you will ever play, we all know this is just to show off that I have a projet in python but still...
 * **The game screen**
