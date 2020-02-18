@@ -6,17 +6,20 @@
 
 ![Menu](/image/first.png)
 
-* **Categories
+* **Categories**
+
 ![Random](/image/random.gif)
 ![Animals](/image/animals.gif)
 ![Cities](/image/cities.gif)
 ![Movies](/image/movies.gif)
 ![Plants](/image/plants.gif)
-* **Levels
+
+* **Levels**
+
 ![Easy](/image/easy.gif)
 ![Hard](/image/hard.gif)
 
-### Now press Start and enjoy the most basic game you will ever play, we all know this is just to show off that I have a projet in python but still...
+### Now press Start and enjoy the most basic game you will ever play, we all know this is just to show off that I have a project in Python but still...
 * **The game screen**
 ![Game](/image/second.png)
 
