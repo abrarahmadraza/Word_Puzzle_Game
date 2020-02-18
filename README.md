@@ -6,10 +6,21 @@
 
 ![Menu](/image/first.png)
 
+* **Categories
+![Random](/image/random.png)
+![Animals](/image/animals.png)
+![Cities](/image/cities.png)
+![Movies](/image/movies.png)
+![Plants](/image/plants.png)
+* **Levels
+![Easy](/image/easy.png)
+![Hard](/image/hard.png)
+
+### Now press Start and enjoy the most basic game you will ever play, we all know this is just to show off that I have a projet in python but still...
 * **The game screen**
 ![Game](/image/second.png)
 
-* **The choices**
+* **The selection**
 ![Choose](/image/third.png)
 
 * **The End**
